@@ -1,6 +1,10 @@
 {
   "name": "maksim",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "repository": {
+    "url": "git@github.com:JoshBarr/maksim.git"
+  },
+  "homepage": "https://github.com/JoshBarr/maksim",
   "description": "This repo exists so Maksim gets to drink a beer",
   "main": "index.js",
   "scripts": {
